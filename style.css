@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'PP Editorial New-Ultralight';
+    src: url('PPEditorialNew-Ultralight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'PP Editorial New-Ultralight', serif;
+    color: rgb(4, 4, 65);
+    background-color: rgb(253, 255, 217);
+}
+
+.card {
+    
+}
